@@ -17,5 +17,7 @@ $fechaActual = date("d/m/Y");
     <p>La fecha de hoy es: <?php echo $fechaActual; ?></p>
 
     <p>ESTE ES EL CAMBIO DE EJEMPLO</p>
+
+    <p>Commit hecho desde GitHub</p>
 </body>
 </html>
